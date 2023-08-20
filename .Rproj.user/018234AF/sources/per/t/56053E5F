@@ -1,0 +1,28 @@
+{
+    "id": "56053E5F",
+    "path": "C:/Users/bashu/OneDrive/Desktop/R_github/Loan_Approval_prediction_project/Loan_decision_projecrt.R",
+    "project_path": "Loan_decision_projecrt.R",
+    "type": "r_source",
+    "hash": "2129362677",
+    "contents": "",
+    "dirty": false,
+    "created": 1689476799652.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "65,33",
+        "scrollLine": "62",
+        "ignored_words": "CreateDataPartition,datasets\n"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1689573840,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1689573840992,
+    "read_only": false,
+    "read_only_alternatives": []
+}
